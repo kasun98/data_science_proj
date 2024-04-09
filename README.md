@@ -14,6 +14,5 @@ Dataset used - https://www.kaggle.com/datasets/rkiattisak/student-performance-in
 - **Model Deployment**: The selected Linear Regression model was deployed using Azure Web App for seamless integration into production environments.
 
 
-
-![Screenshot (131)](https://github.com/kasun98/data_science_proj/assets/63708260/9bf515e8-1683-4735-8c90-7e997364bbb1)
-![Screenshot (132)](https://github.com/kasun98/data_science_proj/assets/63708260/bc5815f2-b74d-4175-a5df-9cd0e3ae66b7)
+![Screenshot (131)](https://github.com/kasun98/data_science_proj/assets/63708260/229faa06-24f7-42ac-8ec4-ab9e85f3badc)
+![Screenshot (132)](https://github.com/kasun98/data_science_proj/assets/63708260/06398ac3-7b82-4e70-8124-bd1f456e7af5)
